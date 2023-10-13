@@ -1,9 +1,8 @@
-import l01.*;
-
 public class Main {
     public static void main(String[] args) {
 
-    l01_01.test1();
+        // hello world - first coding task
+        section3.e14.helloWorld();
 
     }
 }
