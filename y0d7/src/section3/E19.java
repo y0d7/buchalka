@@ -1,6 +1,6 @@
 package section3;
 
-public class e19 {
+public class E19 {
     public static void e19_challange() {
         int myMinIntValue = Integer.MIN_VALUE;
         int myIntMaxValue = Integer.MAX_VALUE;

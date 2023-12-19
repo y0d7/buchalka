@@ -1,6 +1,6 @@
 package section3;
 
-public class e23 {
+public class E23 {
     public static void e23_challange() {
         char mySimpleChar = '?';
         char myUnicodeChar = '\u003F';

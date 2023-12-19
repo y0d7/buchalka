@@ -1,6 +1,6 @@
 package section3;
 
-public class e15 {
+public class E15 {
 
 
     public static void getMyFirstNumber() {

@@ -1,6 +1,6 @@
 package section3;
 
-public class e20 {
+public class E20 {
     public static void e20Challange()
     {
         byte byte_1 = 2;
